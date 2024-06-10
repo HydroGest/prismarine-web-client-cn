@@ -1,7 +1,7 @@
 {
-  "defaultHost": "kaboom.pw",
+  "defaultHost": "mc.mkc.icu",
   "defaultHostPort": 25565,
   "defaultProxy": "",
   "defaultProxyPort": 0,
-  "defaultVersion": "1.18.2"
+  "defaultVersion": "1.17.1"
 }
